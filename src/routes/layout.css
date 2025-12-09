@@ -2,5 +2,5 @@
 @import '@fontsource-variable/inter';
 
 @theme {
-  --font-sans: 'Noto Color Emoji', 'Inter Variable', 'Inter', sans-serif;
+  --font-sans: 'Inter Variable', 'Inter', sans-serif, 'Noto Color Emoji';
 }
